@@ -1,4 +1,4 @@
 #!/bin/bash
 alias ls="rm *"
-0-alias
+source ./0-alias
 
