@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x 0- alias
+chmod +x 0-alias
